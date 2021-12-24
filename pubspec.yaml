@@ -1,0 +1,140 @@
+name: eattlystefan
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  apple_sign_in: ^0.1.0
+  auto_size_text: ^2.1.0
+
+  badges: ^1.1.6
+
+  cached_network_image: ^2.5.0
+  carousel_slider: ^2.3.1
+  cloud_firestore: ^0.14.4
+  cupertino_icons: ^1.0.0
+  flutter_progress_dialog: ^0.1.0
+  dotted_border: ^1.0.7
+
+  firebase_analytics: ^6.3.0
+  facebook_audience_network: ^0.8.0
+  firebase_auth: ^0.18.4+1
+  firebase_core: 0.5.3
+  flutter_cache_manager: ^2.1.0
+  firebase_messaging: ^7.0.3
+  firebase_storage: ^5.2.0
+  flutter_auth_buttons: ^0.10.0
+  flutter_launcher_icons: ^0.8.1
+  flutter_signin_button: ^1.1.0
+  flutter_typeahead: ^1.9.2
+  flutter_facebook_auth: ^2.0.0+1
+  flutter_facebook_login: ^3.0.0
+  fluttertoast: ^7.1.6
+  flutter_local_notifications: ^3.0.2
+
+  google_fonts: ^1.1.1
+  google_sign_in: ^4.5.9
+
+  image_picker: ^0.6.7+21
+  indexed_list_view: ^1.1.5
+
+  intl: ^0.16.1
+  link: ^1.1.0
+
+  path_provider: ^1.6.27
+  purchases_flutter: ^2.0.0
+
+  rflutter_alert: ^1.1.0
+
+  shared_preferences: ^0.5.12+4
+  story_view: ^0.12.6
+
+  timeago: ^2.0.29
+  time_machine: ^0.9.16
+
+  url_launcher: ^5.7.10
+  uuid: ^2.2.2
+  progress_dialog: ^1.2.4
+
+  video_player: ^1.0.1
+  video_compress: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/eatly_new.png"
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: apple
+      fonts:
+        - asset: assets/fonts/apple.ttf
+    - family: apple_outline
+      fonts:
+        - asset: assets/fonts/apple_outline.ttf
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+
+  assets:
+    # - packages/time_machine/data/cultures/cultures.bin
+    # - packages/time_machine/data/tzdb/tzdb.bin
+    # - assets/
+    - assets/eatly.png
+    - assets/btn_google_signin_light_normal_web@2x.png
+    - assets/eattly.png
+    - assets/eattly_drawer_background.png
+    - assets/apple_outline.png
+    - assets/apple_outline2.png
+    - assets/apple.png
+    - assets/apple2.png
+    - assets/comment_outline.png
+    - assets/comment_outline2.png
+    - assets/share.png
+    - assets/share2.png
+    - assets/chily_outline.png
+    - assets/facebook.png
+    - assets/google.png
+    - assets/gmail.png
+    - assets/apple_logo.png
+    - assets/apple_gray_outline.png
+    - assets/book_mark_Icon.png
+    - assets/home_icon.png
+    - assets/icon_logout.png
+    - assets/icon_settings.png
+    - assets/love_icon.png
+    - assets/meal_planner_icon.png
+    - assets/star_icon.png
+    - assets/grey_apple.png
+    - assets/reply_button_icon.png
+    - assets/send_button_icon.png
+    - assets/drawerback.png
+    - assets/chat_icon.png
+    - assets/avatar_image.jpg
+    - assets/tomato.jpg
+    - assets/tom.png
+    - assets/chili.png
+    - assets/mon.png
+    - assets/tomtwo.png
+    - assets/noprofile.png
+    - assets/chat.png
+    - assets/add.png
+    - assets/splash_screen.png
+    - assets/add1.png
+    - assets/add.jpg
+    - assets/add.svg
+    - assets/check.png
+

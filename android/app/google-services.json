@@ -1,0 +1,111 @@
+{
+  "project_info": {
+    "project_number": "943361585841",
+    "firebase_url": "https://eattly-5cf0e.firebaseio.com",
+    "project_id": "eattly-5cf0e",
+    "storage_bucket": "eattly-5cf0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943361585841:android:a41294e982535e7455e890",
+        "android_client_info": {
+          "package_name": "com.eattly.eattlystefan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943361585841-40o4ju0s2g8244b08ls5tcv7b30ssmsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "50db2280a944536467d48e78e988276422dc2ceb"
+          }
+        },
+        {
+          "client_id": "943361585841-7mbdpaoksrmifgb904jakup12j2pol9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "1c8d63a148bb214d7ad763935d9ba78bc258b46b"
+          }
+        },
+        {
+          "client_id": "943361585841-cg3d4ehf28o0qhbricjldqbpbqjseru7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "5b94d5670d7522c302c367d61cc5942913335bee"
+          }
+        },
+        {
+          "client_id": "943361585841-dicljue4eg8heh7men9n6oac5drs1avg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "82f3166ac309528d70bc995ae69bcc2089b3e9e5"
+          }
+        },
+        {
+          "client_id": "943361585841-jh9fnm7vgphsh03cd3d7vt141dd94t10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "b6aff95ccd3600f82b4b73e1ad276495d93a6e89"
+          }
+        },
+        {
+          "client_id": "943361585841-kmhitu10bcbn6u9m0epvuvi9cn8lpdso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "7c4133ae96c5cbf0e5aa63be26d397ee60849e44"
+          }
+        },
+        {
+          "client_id": "943361585841-n02thq45lf9d33foisb9o5dt5s4tacha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "1394da70b862519f1ec6ca345bad8ee955a357fc"
+          }
+        },
+        {
+          "client_id": "943361585841-plftej3ja14340p7agb6np9vinurroe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattly.eattlystefan",
+            "certificate_hash": "1dbc41ee3e1e97e4b9293343ae788d94b997d871"
+          }
+        },
+        {
+          "client_id": "943361585841-cqj07o3got9g4mq9dhdbbd4i9k0acdvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BnS65Pxni94AOXQf8vAjDhI0cBc1X90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943361585841-cqj07o3got9g4mq9dhdbbd4i9k0acdvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943361585841-gv17ndgvri64c3p08h73f5phmhjmrgb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eattly.eattlystefan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
